@@ -3,7 +3,7 @@
 This GitHub repository contains a template for building a .NET application using an N-Layer architecture with Entity Framework (EF) Core configuration and a generic repository pattern. This setup is designed to provide a robust and maintainable foundation for your application, allowing you to easily extend and scale your project.
 
 <h3>Table of Contents</h3>
-Introduction
+<h6>Introduction</h6>
 <h6>Features</h6>
 <h6>Getting Started</h6>
 <h6>Architecture Overview</h6>
@@ -15,9 +15,7 @@ Introduction
 Modern software applications often require a well-structured architecture to manage complexity, facilitate maintainability, and promote scalability. This template provides a starting point for building .NET applications with a well-organized N-Layer architecture:
 
 Presentation Layer: This layer is responsible for the user interface and interaction with the end-users. It typically includes web controllers, views, and APIs.
-
 Business Logic Layer: Here, you encapsulate the application's core business rules and workflows. It's the heart of your application and should remain independent of the data access layer.
-
 Data Access Layer: This layer handles data access, often using EF Core to interact with a database. It includes repositories that abstract the data storage, ensuring a clean separation between the business logic and data access.
 
 <h3>Features</h3>
