@@ -10,7 +10,6 @@ Table of Contents
 <h3>Usage</h3>
 <h3>Customization</h3>
 <h3>Contributing</h3>
-<h3>License</h3>
 
 Introduction
 Modern software applications often require a well-structured architecture to manage complexity, facilitate maintainability, and promote scalability. This template provides a starting point for building .NET applications with a well-organized N-Layer architecture:
