@@ -1,0 +1,15 @@
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\bin\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.deps.json
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\bin\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.dll
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\bin\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.pdb
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\bin\Debug\net6.0\EFConfigureExample.DataAccessLayer.dll
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\bin\Debug\net6.0\EFConfigureExample.DataAccessLayer.pdb
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.dll
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\refint\EFConfigureExample.BusinessLogicLayer.dll
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\EFConfigureExample.BusinessLogicLayer.pdb
+C:\Users\rifat\Desktop\EFConfigureExample\EFConfigureExample.BusinessLogicLayer\obj\Debug\net6.0\ref\EFConfigureExample.BusinessLogicLayer.dll
