@@ -53,7 +53,8 @@ Inject the repository into your services and utilize it to perform data operatio
 
 csharp
 Copy code
-`public class MyService
+
+public class MyService
 {
     private readonly IMyEntityRepository _repository;
 
@@ -63,7 +64,7 @@ Copy code
     }
 
     // Implement your business logic using the repository.
-}`
+}
 
 <h3>Customization</h3>
 You can customize this template to meet your application's specific needs. Consider the following:
