@@ -64,7 +64,7 @@ public class MyService
     }
 
     // Implement your business logic using the repository.
-}
+
 
 <h3>Customization</h3>
 You can customize this template to meet your application's specific needs. Consider the following:
